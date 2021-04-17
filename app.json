@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A simple app to test search result speed on a device",
+    "githubUrl": "https://github.com/mdhawley/FergusonSearchTest"
   }
 }
